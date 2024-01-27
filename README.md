@@ -1,7 +1,5 @@
 
 <div align="center">
-
-  <h3>Qing</h3>
   <picture>
     <img src="https://cdn.jsdelivr.net/gh/QingYiXiaoYao/QingYiXiaoYao/assets/images/rd-bg.jpg" height="432" width="768" alt="封面" />
   </picture>
