@@ -3,7 +3,7 @@
 
   <h3>Qing</h3>
   <picture>
-    <img src="https://lianxicommunity.oss-cn-beijing.aliyuncs.com/blog/avatar.jpg" height="180" alt="头像" />
+    <img src="https://cdn.jsdelivr.net/gh/QingYiXiaoYao/QingYiXiaoYao/assets/images/avatar.jpg" height="180" alt="头像" />
   </picture>
 
   <div>&nbsp;</div>
@@ -17,9 +17,9 @@
   </div>
     <!-- 贪吃蛇贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/hash-panda/hash-panda/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/hash-panda/hash-panda/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/hash-panda/hash-panda/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/QingYiXiaoYao/QingYiXiaoYao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/QingYiXiaoYao/QingYiXiaoYao/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/QingYiXiaoYao/QingYiXiaoYao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
